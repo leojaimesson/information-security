@@ -5,3 +5,7 @@
 <h3 align="center">Universidade Federal do Ceará</h3>
 
 <p align="center">Repositório dedicado para adicionar resoluções de exercícios e trabalhos para disciplina de Segurança da Informação.</p> 
+
+## Exercícios concluídos
+
+- [Cifra de playfair](01-cifra-playfair/README.md)
