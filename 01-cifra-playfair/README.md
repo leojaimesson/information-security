@@ -1,8 +1,9 @@
 # Cifra de Playfair
 
-## Relátorio
+## Relatório
 
-Eu resolvi a o exercício proposto individualmente. Para implementação dessa cifra optei por utilizar a linguagem javascript devido uma maior afinidade que eu possuo com a mesma. O código de criptografar e descriptografar está localizado no diretório `lib`.  
+Eu resolvi a o exercício proposto individualmente. Para implementação dessa cifra optei por utilizar a linguagem javascript devido uma maior afinidade que eu possuo com a mesma. O código de criptografar e descriptografar está localizado no diretório `lib`. Eu fiz tudo o que foi pedido no trabalho. No total da atividade gastei cerca de 2 horas para concluir.  
+
 
 ## Dependências de Ambiente
 
