@@ -9,3 +9,5 @@ Eu resolvi a o exercício proposto individualmente. Para implementação dessa c
 Execute `python vigenere.py [path message] [path wordlist]` no diretório raiz do projeto.
 
 Exemplo: `python vigenere.py message.txt wordlist.txt`
+
+<img src="img/console.png" alt="tela do console">
