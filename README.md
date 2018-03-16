@@ -9,3 +9,4 @@
 ### Exercícios concluídos
 
 - [Cifra de playfair](01-cifra-playfair/README.md)
+- [Cifra de vigenere](02-cifra-vigenere/README.md)
