@@ -8,5 +8,7 @@
 
 ### Exercícios concluídos
 
-- [Cifra de playfair](01-cifra-playfair/README.md)
-- [Cifra de vigenere](02-cifra-vigenere/README.md)
+- [01-cifra-playfair](01-cifra-playfair/README.md)
+- [02-cifra-vigenere](02-cifra-vigenere/README.md)
+- [03-cifras](03-cifras/README.md)
+- [04-gpg](04-gpg/README.md)
