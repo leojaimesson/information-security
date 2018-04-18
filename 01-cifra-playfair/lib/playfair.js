@@ -28,13 +28,9 @@
 
     function normalizeText(text) {
         return text
-            .replace(/ç/ig, "c")
-            .replace(/[^a-z]/ig, "")
-            .replace(/á|à|ã|â/ig, "a")
-            .replace(/é|è|ẽ|ê/ig, "e")
-            .replace(/í|ì|ĩ|î/ig, "i")
-            .replace(/ó|ò|õ|ô/ig, "o")
-            .replace(/ú|ù|ũ|û/ig, "u");
+            .normalize('NFD')
+						.replace(/[^a-z]/ig, "")
+        		.replace(/[\u0300-\u036f]/g, "");
     }
 
     function normalizeKey(key) {
