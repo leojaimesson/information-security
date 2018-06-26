@@ -1,15 +1,6 @@
 # Prática com TOR
 
-Para realizar o tutorial proposto, foi preciso realizar a instalação do protocolo e do navegador TOR.
-
-```console
-sudo add-apt-repository ppa:webupd8team/tor-browser
-sudo apt-get update
-sudo apt-get install tor-browser
-sudo apt-get install tor
-```
-
----
+Essa pratica foi bem interessante, pois mostra todo o poder presente nesse protocolo.
 
 Após a instalação foi acessado um site da Deep Web usando o TOR Browser.
 
